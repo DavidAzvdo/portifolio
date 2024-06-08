@@ -1,0 +1,43 @@
+#about-me {
+  width: 100%;
+  margin-top: 50px;
+  padding: 0 10%;
+  height: auto;
+}
+#about-me h1 {
+  color: var(--branco);
+  width: 100%;
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+} 
+
+.introduction {
+  display: flex;
+  align-items: center; 
+  color: var(--branco);
+}
+
+.introduction p, .introduction strong {
+  font-family: 'DM Serif Display';
+  font-size: 38px;
+}
+
+#about-me h1, .introduction p {
+  width: 50%;
+}
+
+.introduction strong {
+  color: var(--laranja);
+}
+
+.img-logo {
+  width: 250px;
+  margin-right: 20px; 
+}
+
+.img-logo img {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+}

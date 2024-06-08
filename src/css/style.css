@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+body{
+  background-color: #212321;
+  overflow-x: none !important;
+}
+
+:root{
+ --body-font:'Poppins', sans-serif;
+ --second-font:'Montserrat' ,sans-serif;
+ 
+ 
+ --cinza-claro: #34343B;
+ --cinza-escuro: #2E2E35;
+  --laranja:#CC8A29;
+  --laranja-hover:#DEB345;
+  --branco:#fff;
+
+
+}
+
